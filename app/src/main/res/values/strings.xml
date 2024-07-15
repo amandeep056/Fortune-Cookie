@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FortuneCookieApp</string>
+
+    <string-array name="categories">
+        <item>Love</item>
+        <item>Career</item>
+        <item>Health</item>
+    </string-array>
+
+    <string-array name="fortunes_love">
+        <item>You will find love soon.</item>
+        <item>Someone is thinking about you.</item>
+        <item>Your romantic life will flourish.</item>
+    </string-array>
+
+    <string-array name="fortunes_career">
+        <item>Success is on the horizon.</item>
+        <item>A new opportunity awaits.</item>
+        <item>Hard work will pay off soon.</item>
+    </string-array>
+
+    <string-array name="fortunes_health">
+        <item>You will enjoy good health.</item>
+        <item>Take care of your body and it will take care of you.</item>
+        <item>A healthy mind resides in a healthy body.</item>
+    </string-array>
+</resources>
